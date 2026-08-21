@@ -12,6 +12,8 @@ The `train` folder contains finetuning and zero-shot evaluation scripts. Specifi
 python3 scripte_name --help
 ```
 
+to see all possible arguments.
+
 ## Citation
 If you use this code or data, please consider citing our paper:
 
